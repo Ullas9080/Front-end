@@ -1,0 +1,32 @@
+#box1 {
+
+margin:150px;
+
+    border-style: groove;
+    border-radius: 10px;
+    border-color: black;
+    width: 250px;
+    height: 250px;
+    background: linear-gradient(skyblue, lightgreen);
+    
+}
+
+#box2 {
+    margin:150px;
+    border-style: groove;
+    border-radius: 10px;
+    border-color: black; 
+    width: 250px;
+    height: 250px;
+    background: linear-gradient(skyblue, lightgreen);
+}
+
+h1{
+border: 5px groove;
+border-color: black;
+border-radius: 5px;
+height: 100px;
+width:100px;
+padding: 10px;
+margin: 50px;
+}

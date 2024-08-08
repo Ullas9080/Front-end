@@ -1,0 +1,17 @@
+/* div {
+    border: solid 2px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+} */
+
+body {
+    background-image: url(https://wallpaperaccess.com/full/133526.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

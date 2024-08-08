@@ -1,0 +1,18 @@
+div{
+    border-style: dotted;
+    width: 250px;
+    height:250px;
+    font-size: 200px;
+    text-align: center;
+    background-image: url(/img/R.jpg);
+    position:fixed;
+    background-position: center;
+    background-size: cover;
+    transform: translateX(50px);
+    transform: translateY(100px);
+    text-decoration: gray;
+    box-shadow: 10px 10px 10px gray;
+    transform: rotateX(180deg);
+    transform: rotatey(180deg);
+    color:blue;
+}

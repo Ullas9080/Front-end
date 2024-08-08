@@ -1,0 +1,15 @@
+.one1
+{
+background-color:rgb(0, 191, 255);
+}
+
+.two2
+{
+  background-color: aqua;
+}
+
+.main
+{
+  display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+}

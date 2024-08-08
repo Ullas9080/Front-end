@@ -1,0 +1,32 @@
+.dom2{
+    border: solid 2px greenyellow;
+    height: 100px;
+    width:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+body{
+    background-image: url(/img/R.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#p11
+{
+    color: brown;
+}
+.button
+{
+    background-color:red;
+    color: white;
+}
+.para{
+    color: red;
+}
+.newpara
+{
+    background-color: yellow;
+}

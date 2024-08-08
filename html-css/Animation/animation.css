@@ -1,0 +1,24 @@
+div{
+    border:5px groove;
+    height: 220px;
+    width: 220px;
+    text-align: center;
+    font-size: 200px;
+    background-image: url(/img/newyork.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+    animation: div;
+    animation-duration: 5s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+
+}
+
+@keyframes div{
+    from{margin-top:100%;}
+    to{margin-bottom:100%;}
+}

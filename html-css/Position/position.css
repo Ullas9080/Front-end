@@ -1,0 +1,33 @@
+.box1{
+    border:1px soild;
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+    border-color: black;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    background-image: url(/img/R.jpg);
+}
+
+.box2{
+    border-style: groove;
+    border-radius: 5px;
+    border-color: black;
+    height: 100px;
+    width: 100px;
+    background-color: tomato;
+    position: absolute;
+    top: 140%;
+    left:10%;
+     
+}
+img{
+    height: 150px;
+    position:sticky ;
+    top:0;
+    bottom: 0;
+    top:150;
+    left: 200px;
+    float:left;
+}

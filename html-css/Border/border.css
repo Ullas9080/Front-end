@@ -1,0 +1,57 @@
+#p1{
+border-style: groove;
+border-width: 10px;
+border-color: gold;
+border-radius: 10px;
+}
+#h1
+{
+border-top-style: double;
+border-bottom-style: double;
+border-color: yellowgreen ;
+border-left-style:dashed
+}
+ button{
+    background-color: red;
+    color: white;
+    font-size: 1rem;
+    height: 36px;
+font-family: Arial, Helvetica, sans-serif;
+width: 105px;
+border-radius: 2px;
+cursor: pointer;
+ }
+.join
+{ border:2px solid;
+    color: rgb(21, 61, 194);
+    background-color: rgb(255, 0, 0);
+    border-color: rgb(0, 60, 255);
+    transition: 0.15s;
+padding-left: 3;
+    margin-left: 0%;
+margin-right: 0%;
+transition: background-color 1s,color 1s,box-shadow 2s
+;
+
+}
+
+.join:hover{
+box-shadow :12px 12px 12px black; 
+
+}
+.join:active{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+{
+    Student = {
+        name: "Ullas"
+        , age: 19,
+        hobbies: ["Badmittion", "Cricket", "Tennies", "Football"]
+    },
+    // Professor = {
+    //     name: "Deepak",
+    //     age: 28,
+    //     passion: ["Cooking", "Teaching", "Sports"]
+    // },
+    // Attender = {
+    //     name: "Kumar",
+    //     age: 45
+    //     , passion: ["Cleaning", "Eating", "Helping"]
+    // }
+}   
